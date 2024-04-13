@@ -1,1 +1,2 @@
 # folium_study
+これはGoogleコラボ上でfoliumを使う方法を勉強するために整理したものです。
